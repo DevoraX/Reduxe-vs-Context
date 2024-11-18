@@ -15,9 +15,9 @@ This repository contains a comprehensive article and code examples comparing **R
 - Learn how to implement **Redux** and **Context API** for managing state in React applications.
 - Compare the pros and cons of using each approach with hands-on examples.
 - Simple To-Do List application to demonstrate state management in action.
-   `
+
 ttps://github.com/arshia/redux-vs-context-article.git
-   ```
+   
 2. Navigate to the project directory and open the `redux-vs-context-with-example.md` file to read the full article.
 
 ## 🤝 Contributions
